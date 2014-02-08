@@ -675,12 +675,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kpacha/reactive-silex.git",
-                "reference": "49956f2bbf418b37cd53d89850f9ef76c37c28f9"
+                "reference": "e2b420fd9f7fca58450e879e0bfcf6cacb586268"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kpacha/reactive-silex/zipball/49956f2bbf418b37cd53d89850f9ef76c37c28f9",
-                "reference": "49956f2bbf418b37cd53d89850f9ef76c37c28f9",
+                "url": "https://api.github.com/repos/kpacha/reactive-silex/zipball/e2b420fd9f7fca58450e879e0bfcf6cacb586268",
+                "reference": "e2b420fd9f7fca58450e879e0bfcf6cacb586268",
                 "shasum": ""
             },
             "require": {
@@ -705,7 +705,7 @@
                 }
             ],
             "description": "Mixup silex and react",
-            "time": "2014-02-08 18:05:39"
+            "time": "2014-02-08 20:55:19"
         },
         {
             "name": "mcuadros/silex-hateoas",

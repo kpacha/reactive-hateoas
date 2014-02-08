@@ -54,6 +54,10 @@ There is a built-in console-based script
     Memory: 1280 KiB
     Memory: 1280 KiB
 
+##Api Consumption
+
+See the nice examples at [mcuadros's repo](http://github.com/mcuadros/silex-hateoas#examples).
+
 ##Scalability
 
 React launches a single-process share-nothing server, so you can instance several stacks in a single 
