@@ -62,3 +62,5 @@ and memory consumption will remain almost lineal. Balance your load between your
 will be run like a charm!
 
 Also, remember to bind every stack to a different port or you will face some nice port collision messages!
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kpacha/reactive-hateoas/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
