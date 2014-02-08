@@ -1,0 +1,20 @@
+{
+    "name": "kpacha/reactive-hateoas",
+    "description": "The scalable hateoas server",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kpacha",
+            "email": "kpacha666@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kpacha/reactive-silex": "dev-master",
+        "willdurand/hateoas": "~2.1.0",
+        "mcuadros/silex-hateoas": "dev-master"
+    },
+    "autoload": {
+        "psr-4": { "Kpacha\\ReactiveHateoas\\": "src/" }
+    }
+}
